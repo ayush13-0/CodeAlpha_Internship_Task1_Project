@@ -69,4 +69,5 @@ The goal is to compare data patterns, visualize insights, and demonstrate scalab
 👨‍💻 Developed By
 Ayush
 Data Science & Analytics | Machine Learning | Web Scraping & APIs
-🔗 GitHub: https://github.com/ayush13-0
+- 🔗 GitHub: https://github.com/ayush13-0
+- 🔗 LinkedIn: https://www.linkedin.com/in/ayush130
