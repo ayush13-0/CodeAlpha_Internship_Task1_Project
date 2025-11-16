@@ -1,4 +1,4 @@
-# CodeAlpha_Task1 Hybrid Web Scraping Project
+# CodeAlpha_Task1
 
 # 🧾 Hybrid Data Extraction & Analytics Projects
 Comparative Product Insights from E-Commerce & Food Domains
