@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-OpenFoodFacts-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-EDA-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Preprocessing-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red?style=for-the-badge" />
-</p>
+
 
 <p align="center"><strong>🧾📊 Hybrid Data Extraction & Analytics</strong></p>
 <p align="center"> <img src="https://img.shields.io/badge/Internship-CodeAlpha%20ML%20Internship-black?style=for-the-badge" /> </p>
