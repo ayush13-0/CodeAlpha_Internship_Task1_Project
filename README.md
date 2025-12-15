@@ -1,3 +1,7 @@
+ <img src="https://img.shields.io/badge/🧾📊Hybrid%20Data%20Extraction-Web%20Scraping%20%7C%20API-blueviolet?style=for-the-badge" />
+
+<p align="center"> <img src="https://img.shields.io/badge/Internship-CodeAlpha%20ML%20Internship-black?style=for-the-badge" /> </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API-OpenFoodFacts-green?style=for-the-badge" />
