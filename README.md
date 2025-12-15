@@ -1,4 +1,4 @@
-# 🧾📊Hybrid Data Extraction & Analytics
+# <p align="center">🧾📊Hybrid Data Extraction & Analytics  /> </p>
 <p align="center"> <img src="https://img.shields.io/badge/Internship-CodeAlpha%20ML%20Internship-black?style=for-the-badge" /> </p>
 
 <p align="center">
